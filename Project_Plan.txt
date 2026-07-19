@@ -1,0 +1,6 @@
+Project Management Office Plan
+
+Phase 1: Requirement Collection
+Phase 2: Planning
+Phase 3: Execution
+Phase 4: Monitoring
